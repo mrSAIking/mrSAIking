@@ -10,9 +10,10 @@ Building AI-powered applications, embedded systems, and desktop software.
 
 | Project | Description |
 |---|---|
-| [Xiaozhi AI](https://github.com/mrSAIking/xiaozhi-esp32) | ESP32 AI assistant with custom music and web-search integrations |
-| [ESP32 Retro Gaming](https://github.com/mrSAIking/retro-go) | ESP32-S3 retro gaming console with TFT display and I2S audio |
-| AI Desktop Companion | Desktop AI assistant using Electron, React, and local LLMs |
+| [Xiaozhi ESP32](https://github.com/mrSAIking/xiaozhi-esp32) | ESP32-based AI voice assistant firmware |
+| [ESP32 Retro Gaming](https://github.com/mrSAIking/retro-go) | Custom ESP32-S3 retro gaming console with TFT display, I2S audio and DOOM |
+| [Xiaozhi ESP32 Music](https://github.com/mrSAIking/xiaozhi-esp32-music) | XiaoZhi firmware with integrated music player |
+| [ESP32 Music Library](https://github.com/mrSAIking/music) | GitHub-hosted audio files and song catalog for ESP32 music streaming |
 
 ---
 
@@ -38,7 +39,7 @@ Building AI-powered applications, embedded systems, and desktop software.
 
 [![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logoColor=white)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ---
