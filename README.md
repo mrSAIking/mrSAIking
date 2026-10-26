@@ -35,6 +35,15 @@ Building AI-powered applications, embedded systems, and desktop software.
 [![ESP32](https://img.shields.io/badge/ESP32-111111?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/)
 [![Arduino](https://img.shields.io/badge/Arduino-111111?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
+
+**AI / ML**
+
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-111111?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/)
+[![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)
+[![OpenCode](https://img.shields.io/badge/OpenCode-111111?style=flat-square&logoColor=white)](https://opencode.ai/)
+[![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white)](https://openai.com/codex/)
+
+
 **Development Tools**
 
 [![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
