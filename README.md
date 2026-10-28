@@ -13,7 +13,6 @@ Building AI-powered applications, embedded systems, and desktop software.
 | [Xiaozhi ESP32](https://github.com/mrSAIking/xiaozhi-esp32) | ESP32-based AI voice assistant firmware |
 | [ESP32 Retro Gaming](https://github.com/mrSAIking/retro-go) | Custom ESP32-S3 retro gaming console with TFT display, I2S audio and DOOM |
 | [Xiaozhi ESP32 Music](https://github.com/mrSAIking/xiaozhi-esp32-music) | XiaoZhi firmware with integrated music player |
-| [ESP32 Music Library](https://github.com/mrSAIking/music) | GitHub-hosted audio files and song catalog for ESP32 music streaming |
 
 ---
 
